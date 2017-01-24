@@ -40,13 +40,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="cover_image\Hillnew.bmp" />
-    <Content Include="function\dwt.pyc" />
-    <Content Include="function\extract.pyc" />
-    <Content Include="function\hide.pyc" />
-    <Content Include="function\idwt.pyc" />
-    <Content Include="function\input_file.pyc" />
-    <Content Include="function\output_cover_image.pyc" />
-    <Content Include="function\process_data.pyc" />
     <Content Include="origenal_image\OMG_Goldhill_RGB_n.bmp" />
     <Content Include="paper\High-capacity Robust Watermarking Approach for Protecting Ownership Right.pdf" />
   </ItemGroup>
