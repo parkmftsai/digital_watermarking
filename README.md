@@ -15,4 +15,9 @@ For example:
 Note:
 a best embedding scheme can product Covered image what almost like the original image.<br >
 
-Extracting is meaning we can use the scheme opposite of embedding, it can extract the watermark from cover image. 
+Extracting is meaning we can use the scheme opposite of embedding, it can extract the watermark from cover image. <br >
+
+If you want to know detail about our scheme , you can read our paper and run our source code<br >
+have fun~~~~^_^<br >
+
+###############################################################################################Parktsai
