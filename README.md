@@ -7,3 +7,4 @@ For example:
   <img src="https://github.com/parkmftsai/Digital_watermarking/blob/master/watermarking/cover_image/Hillnew.bmp" width = "300" height = "300" alt="cover_image" align=center/>  
   Clockwise from  left: "origenal_image" and "covered_image"
 
+Of cause,the covered_image 
